@@ -43,3 +43,7 @@ mk_json/create_json_ck_ASR.py   :  문자 인식 결과 출력 파이선 소스 
 박현주 (hpark116@gm.gist.ac.kr, GIST, 통합과정)
 
 송일훈 (ilhoon1204@gm.gist.ac.kr, GIST, 석사과정)
+
+# Acknowledgement
+
+This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No. 2020-0-0227, Development of Aggression Detection in Speech Using Acoustic- and Text-based Sentiment Analysis)
