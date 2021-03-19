@@ -1,6 +1,6 @@
 # GC2_track4_violence_detection_GIST
 
-Grand Challenge 2 track 4 Violence detection sourcecode developed by GIST
+Grand Challenge 4th track 2 Violence detection sourcecode developed by GIST
 
 # 과제 개요(2020 Grand Challenge 2차 4트랙 개요)
 
