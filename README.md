@@ -2,7 +2,7 @@
 
 Grand Challenge 4th track 2 Violence detection sourcecode developed by GIST
 
-# 과제 개요(2020 Grand Challenge 2차 4트랙 개요)
+# 과제 개요(2020 Grand Challenge 4차 2트랙 개요)
 
 사회안전망 강화
 
