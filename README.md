@@ -12,15 +12,15 @@ Grand Challenge 4th track 2 Violence detection sourcecode developed by GIST
 
 # 프로그램 설명
 
-Text 인식을 통한 폭력 상황 인지
+Text 분석을 통한 폭력 상황 분류
 
 # 코드 설명
 
-predict.py                      :  전체 문자 인식 및 결과 출력 동작 코드
-phj/run_4th_iitp.sh             :  문자 인식 모델 동작 코드
-phj/phj_iitp_4th_batch_norm.py  :  문자 인식 모델 파이선 소스 코드
-mk_json/run.sh                  :  문자 인식 결과 출력 동작 코드
-mk_json/create_json_ck_ASR.py   :  문자 인식 결과 출력 파이선 소스 코드
+predict.py                      : 전체 문자 인식 및 결과 출력 동작 코드
+phj/run_4th_iitp.sh             : 문자 인식 모델 동작 코드
+phj/phj_iitp_4th_batch_norm.py  : 문자 인식 모델 파이선 소스 코드
+mk_json/run.sh                  : 문자 인식 결과 출력 동작 코드
+mk_json/create_json_ck_ASR.py   : 문자 인식 결과 출력 파이선 소스 코드
 
 # Contributors
 
